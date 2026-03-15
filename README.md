@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **JAVA, Spring-Boot, Kubernetes**
+- 💬 Ask me about **JAVA, Spring-Boot, AWS**
   
 - 💻 **[Check out my projects!](https://github.com/NamanR93?tab=repositories)**
 
