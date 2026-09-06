@@ -3,9 +3,7 @@
 <!-- <h3 align="center">A passionate frontend developer.</h3> -->
 <img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
-- 🔭 I’m currently working on **Cloud Projects**
-
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **RabbitMQ**
 
 - 💬 Ask me about **JAVA, Spring-Boot, AWS**
   
